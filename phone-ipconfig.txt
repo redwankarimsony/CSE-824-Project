@@ -1,0 +1,58 @@
+rmnet_ipa0 Link encap:UNSPEC  
+          UP RUNNING  MTU:2000  Metric:1
+          RX packets:5 errors:0 dropped:0 overruns:0 frame:0 
+          TX packets:18 errors:0 dropped:0 overruns:0 carrier:0 
+          collisions:0 txqueuelen:1000 
+          RX bytes:267 TX bytes:1328 
+
+v4-rmnet_data7 Link encap:UNSPEC  
+          inet addr:192.0.0.4  P-t-P:192.0.0.4  Mask:255.255.255.255 
+          UP POINTOPOINT RUNNING NOARP MULTICAST  MTU:1472  Metric:1
+          RX packets:0 errors:0 dropped:0 overruns:0 frame:0 
+          TX packets:2 errors:0 dropped:0 overruns:0 carrier:0 
+          collisions:0 txqueuelen:500 
+          RX bytes:0 TX bytes:192 
+
+wlan0     Link encap:Ethernet  HWaddr 02:1a:11:ff:37:c5
+          inet addr:192.168.43.1  Bcast:192.168.43.255  Mask:255.255.255.0 
+          inet6 addr: fe80::1a:11ff:feff:37c5/64 Scope: Link
+          UP BROADCAST RUNNING MULTICAST  MTU:1500  Metric:1
+          RX packets:2082 errors:0 dropped:0 overruns:0 frame:0 
+          TX packets:1754 errors:0 dropped:0 overruns:0 carrier:0 
+          collisions:0 txqueuelen:1000 
+          RX bytes:162845 TX bytes:140899 
+
+rmnet_data7 Link encap:UNSPEC  
+          inet6 addr: 2607:fc20:1424:8281:f990:3897:d540:4864/64 Scope: Global
+          inet6 addr: fe80::f990:3897:d540:4864/64 Scope: Link
+          UP RUNNING  MTU:1500  Metric:1
+          RX packets:5 errors:0 dropped:0 overruns:0 frame:0 
+          TX packets:11 errors:0 dropped:0 overruns:0 carrier:0 
+          collisions:0 txqueuelen:1000 
+          RX bytes:507 TX bytes:836 
+
+dummy0    Link encap:Ethernet  HWaddr d6:67:c3:18:bf:17
+          inet6 addr: fe80::d467:c3ff:fe18:bf17/64 Scope: Link
+          UP BROADCAST RUNNING NOARP  MTU:1500  Metric:1
+          RX packets:0 errors:0 dropped:0 overruns:0 frame:0 
+          TX packets:8 errors:0 dropped:0 overruns:0 carrier:0 
+          collisions:0 txqueuelen:0 
+          RX bytes:0 TX bytes:560 
+
+rmnet_data0 Link encap:UNSPEC  
+          inet addr:30.90.137.138  Mask:255.255.255.252 
+          inet6 addr: fe80::49:ffd:5111:302c/64 Scope: Link
+          UP RUNNING  MTU:1440  Metric:1
+          RX packets:0 errors:0 dropped:0 overruns:0 frame:0 
+          TX packets:7 errors:0 dropped:0 overruns:0 carrier:0 
+          collisions:0 txqueuelen:1000 
+          RX bytes:0 TX bytes:492 
+
+lo        Link encap:Local Loopback  
+          inet addr:127.0.0.1  Mask:255.0.0.0 
+          inet6 addr: ::1/128 Scope: Host
+          UP LOOPBACK RUNNING  MTU:65536  Metric:1
+          RX packets:0 errors:0 dropped:0 overruns:0 frame:0 
+          TX packets:0 errors:0 dropped:0 overruns:0 carrier:0 
+          collisions:0 txqueuelen:0 
+          RX bytes:0 TX bytes:0
