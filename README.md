@@ -1,4 +1,8 @@
 # CSE-824-Project
+
+#### Download the data from here 
+[Drive Link for Data](https://drive.google.com/drive/folders/1AkhxSerl-liDMVFoFkofg2cilVeUJmZ8?usp=share_link)
+
 ![alt text](slides/Slide1.png)
 ![alt text](slides/Slide2.png)
 ![alt text](slides/Slide3.png)
