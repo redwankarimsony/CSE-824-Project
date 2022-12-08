@@ -24,3 +24,5 @@
 ![alt text](slides/Slide19.png)
 ![alt text](slides/Slide20.png)
 ![alt text](slides/Slide21.png)
+
+Please upvote the project and star it on github. 
