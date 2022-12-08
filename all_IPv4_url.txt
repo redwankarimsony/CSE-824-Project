@@ -1,0 +1,62 @@
+IP Address       	 URL
+3.95.117.96      	 ec2-3-95-117-96.compute-1.amazonaws.com
+104.87.85.175    	 a104-87-85-175.deploy.static.akamaitechnologies.com
+18.160.10.38     	 server-18-160-10-38.iad12.r.cloudfront.net
+172.253.122.95   	 bh-in-f95.1e100.net
+45.60.149.216    	 <<   failed to resolve    >>
+30.121.209.222   	 <<   failed to resolve    >>
+44.240.84.205    	 ec2-44-240-84-205.us-west-2.compute.amazonaws.com
+35.82.74.0       	 ec2-35-82-74-0.us-west-2.compute.amazonaws.com
+173.223.187.178  	 a173-223-187-178.deploy.static.akamaitechnologies.com
+142.251.163.95   	 wv-in-f95.1e100.net
+23.212.249.82    	 a23-212-249-82.deploy.static.akamaitechnologies.com
+142.250.31.93    	 bj-in-f93.1e100.net
+20.110.81.91     	 <<   failed to resolve    >>
+157.240.229.35   	 edge-star-mini-shv-02-iad3.facebook.com
+142.251.163.103  	 wv-in-f103.1e100.net
+18.165.83.8      	 server-18-165-83-8.iad55.r.cloudfront.net
+146.75.37.32     	 <<   failed to resolve    >>
+192.168.43.136   	 <<   failed to resolve    >>
+3.220.159.105    	 ec2-3-220-159-105.compute-1.amazonaws.com
+172.253.115.139  	 bg-in-f139.1e100.net
+146.75.36.106    	 <<   failed to resolve    >>
+157.240.229.1    	 xx-fbcdn-shv-02-iad3.fbcdn.net
+142.251.16.132   	 bl-in-f132.1e100.net
+34.122.121.32    	 32.121.122.34.bc.googleusercontent.com
+18.160.10.100    	 server-18-160-10-100.iad12.r.cloudfront.net
+208.89.12.91     	 <<   failed to resolve    >>
+13.69.239.73     	 <<   failed to resolve    >>
+52.184.215.140   	 <<   failed to resolve    >>
+172.253.115.94   	 bg-in-f94.1e100.net
+10.177.0.34      	 <<   failed to resolve    >>
+185.199.109.133  	 cdn-185-199-109-133.github.com
+172.224.7.8      	 a172-224-7-8.source.akaquill.net
+40.126.24.147    	 <<   failed to resolve    >>
+192.168.43.230   	 <<   failed to resolve    >>
+208.89.12.153    	 lptag.liveperson.net
+10.177.0.210     	 <<   failed to resolve    >>
+192.168.43.135   	 <<   failed to resolve    >>
+142.251.16.94    	 bl-in-f94.1e100.net
+18.160.10.11     	 server-18-160-10-11.iad12.r.cloudfront.net
+142.251.163.94   	 wv-in-f94.1e100.net
+146.75.37.192    	 <<   failed to resolve    >>
+45.60.108.246    	 <<   failed to resolve    >>
+172.64.155.188   	 <<   failed to resolve    >>
+18.165.83.49     	 server-18-165-83-49.iad55.r.cloudfront.net
+142.250.188.214  	 iad23s94-in-f22.1e100.net
+18.165.83.88     	 server-18-165-83-88.iad55.r.cloudfront.net
+20.189.173.9     	 <<   failed to resolve    >>
+192.168.43.1     	 <<   failed to resolve    >>
+51.104.15.253    	 <<   failed to resolve    >>
+40.126.24.146    	 <<   failed to resolve    >>
+108.138.85.30    	 server-108-138-85-30.iad12.r.cloudfront.net
+172.253.62.190   	 bc-in-f190.1e100.net
+224.0.0.251      	 <<   failed to resolve    >>
+208.89.12.87     	 va.v.liveperson.net
+104.17.25.14     	 <<   failed to resolve    >>
+103.82.173.186   	 iutoic-dhaka.edu
+23.220.124.232   	 a23-220-124-232.deploy.static.akamaitechnologies.com
+20.25.241.18     	 <<   failed to resolve    >>
+142.251.32.4     	 ord38s33-in-f4.1e100.net
+18.154.227.57    	 server-18-154-227-57.iad55.r.cloudfront.net
+142.251.16.95    	 bl-in-f95.1e100.net
